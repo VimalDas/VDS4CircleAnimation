@@ -1,6 +1,9 @@
 # VDS4CircleAnimation
 
-Drag a UIView to storyboard and change its class to VDSCircleAnimation.
+Drag a UIView to storyboard and change its class to 
+
+                VDSCircleAnimation.
+                
 
 thats it. enjoyy!!
 
